@@ -1,0 +1,56 @@
+{
+    "musicData":[
+        {
+            "title" : "晴天",
+            "author" : "周杰伦",
+            "src" : "/data/song/周杰伦 - 晴天.mp3",
+            "musicImgSrc" : "/data/song/chou.jpg",
+            "lrc" : "/data/lrc/周杰伦 - 晴天.lrc"
+        },
+        {
+            "title" : "暧昧",
+            "author" : "薛之谦",
+            "src" : "/data/song/薛之谦 - 暧昧.mp3",
+            "musicImgSrc" : "/data/song/lin.jpg",
+            "lrc" : "/data/lrc/暧昧.lrc"
+        },
+        {
+            "title" : "老街",
+            "author" : "李荣浩",
+            "src" : "/data/song/李荣浩 - 老街.mp3",
+            "musicImgSrc" : "/data/song/chou.jpg",
+            "lrc" : "/data/lrc/李荣浩 - 老街.lrc"
+        },
+        {
+            "title" : "年少有为",
+            "author" : "李荣浩",
+            "src" : "/data/song/李荣浩 - 年少有为.mp3",
+            "musicImgSrc" : "/data/song/chou.jpg",
+            "lrc" : "/data/lrc/李荣浩 - 年少有为.lrc"
+        },
+        {
+            "title" : "飞鸟和蝉",
+            "author" : "任然",
+            "src" : "/data/song/任然 - 飞鸟和蝉.mp3",
+            "musicImgSrc" : "/data/song/chou.jpg",
+            "lrc" : "/data/lrc/任然 - 飞鸟和蝉.lrc"
+        },
+        {
+            "title" : "魔鬼中的天使",
+            "author" : "田馥甄",
+            "src" : "/data/song/田馥甄 - 魔鬼中的天使.mp3",
+            "musicImgSrc" : "/data/song/chou.jpg",
+            "lrc" : "/data/lrc/田馥甄 - 魔鬼中的天使.lrc"
+        },
+        {
+            "title" : "戒烟",
+            "author" : "李荣浩",
+            "src" : "/data/song/李荣浩 - 戒烟.mp3",
+            "musicImgSrc" : "/data/song/chou.jpg",
+            "lrc" : "/data/lrc/李荣浩 - 戒烟.lrc"
+        }
+
+
+
+    ]
+}
